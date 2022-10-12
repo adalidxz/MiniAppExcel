@@ -1,0 +1,7 @@
+/build
+/src/public/files/*
+node_modules
+.env
+web.config
+iisnode
+package-lock.json
